@@ -1,0 +1,55 @@
+title	domain	maindomain	subdomain	Calls	Time	max	mean	min
+Cisco - Global Home Page	www.cisco.com	cisco.com	www	183.0	284319434.995877	13307176.13673338	1553658.1147315684	-1.7727680000243708
+Cisco - Global Home Page	www.static-cisco.com	static-cisco.com	www	10.0	8662069.759631278	2599855.974957964	866206.9759631278	110010.61815595574
+Cisco - Global Home Page	sso.cisco.com	cisco.com	sso	10.0	5263125.334709205	1588686.9755801829	526312.5334709205	117270.03116910858
+Cisco - Global Home Page	mcc-tags.cisco.com	cisco.com	mcc-tags	1.0	2413649.534616799	2413649.534616799	2413649.534616799	2413649.534616799
+Cisco - Global Home Page	mktcs.cloudapps.cisco.com	cisco.com	mktcs.cloudapps	1.0	1460990.790090459	1460990.790090459	1460990.790090459	1460990.790090459
+Cisco - Global Home Page	cdcvps.cloudapps.cisco.com	cisco.com	cdcvps.cloudapps	1.0	1437350.9170024856	1437350.9170024856	1437350.9170024856	1437350.9170024856
+Amazon Web Services (AWS) - Cloud Computing Services	s3.amazonaws.com	amazonaws.com	s3	1.0	1393913.900017702	1393913.900017702	1393913.900017702	1393913.900017702
+DoubleClick - Digital Advertising Solutions	bid.g.doubleclick.net	doubleclick.net	bid.g	1.0	996489.0279860917	996489.0279860917	996489.0279860917	996489.0279860917
+Facebook - Log In or Sign Up	connect.facebook.net	facebook.net	connect	3.0	943164.9249742771	882623.6888393563	314388.30832475907	19834.05516186077
+tags.tiqcdn.com	tags.tiqcdn.com	tiqcdn.com	tags	27.0	813540.2186721506	166242.55036686198	30131.119210079654	906.3859197293641
+DoubleClick - Digital Advertising Solutions	googleads.g.doubleclick.net	doubleclick.net	googleads.g	7.0	723956.4592877252	521355.8758528833	103422.35132681788	-2.974448000022676
+Google	www.google.com	google.com	www	7.0	625200.7773131356	529984.8881519744	89314.39675901936	4810.429601412965
+c.la4-c2-chi.salesforceliveagent.com	c.la4-c2-chi.salesforceliveagent.com	salesforceliveagent.com	c.la4-c2-chi	1.0	518869.49224804714	518869.49224804714	518869.49224804714	518869.49224804714
+static.licdn.com	static.licdn.com	licdn.com	static	1.0	509020.00822766655	509020.00822766655	509020.00822766655	509020.00822766655
+LinkedIn: Log In or Sign Up	www.linkedin.com	linkedin.com	www	4.0	491748.1529037819	469875.9061937171	122937.03822594548	1481.936084429035
+Twitter. It's what's happening.	syndication.twitter.com	twitter.com	syndication	2.0	452441.2385755889	451654.13057588786	226220.61928779446	787.1079997010529
+Twitter. It's what's happening.	platform.twitter.com	twitter.com	platform	5.0	387824.3552992544	373807.96697454806	77564.87105985088	329.25600035022944
+wt.adctrl.com	wt.adctrl.com	adctrl.com	wt	2.0	254885.08458199812	129247.21572490345	127442.54229099906	125637.86885709467
+Oracle Eloqua | Marketing Automation Campaigns for Business Marketers | Oracle Marketing Cloud	s983166544.t.eloqua.com	eloqua.com	s983166544.t	3.0	253463.59056799213	220242.2748060103	84487.86352266405	-2.9329329999745823
+b.6sc.co	b.6sc.co	6sc.co	b	4.0	240786.73531726992	193136.45249454043	60196.68382931748	-2.9414800000377
+Adobe Marketing Cloud privacy	ciscosystemsinc.tt.omtrdc.net	omtrdc.net	ciscosystemsinc.tt	7.0	225367.51597664697	143214.71484931873	32195.35942523528	2506.29174936912
+Oracle Eloqua | Marketing Automation Campaigns for Business Marketers | Oracle Marketing Cloud	s2026391005.t.eloqua.com	eloqua.com	s2026391005.t	3.0	204342.7772830875	172243.4143895554	68114.2590943625	-2.9329760000109673
+Cisco - Global Home Page	cisco-tags.cisco.com	cisco.com	cisco-tags	9.0	190696.1226712169	72912.00580547622	21188.458074579656	-2.8664040000294335
+DoubleClick - Digital Advertising Solutions	3569326.fls.doubleclick.net	doubleclick.net	3569326.fls	6.0	184899.97101341374	137678.47100856062	30816.661835568957	4925.829999344423
+Facebook - Log In or Sign Up	www.facebook.com	facebook.com	www	9.0	156775.6776392737	60572.74235716509	17419.519737697075	3049.6095299586887
+col.eum-appdynamics.com	col.eum-appdynamics.com	eum-appdynamics.com	col	1.0	123920.46543647564	123920.46543647564	123920.46543647564	123920.46543647564
+Oracle Eloqua | Marketing Automation Campaigns for Business Marketers | Oracle Marketing Cloud	s177775138.t.eloqua.com	eloqua.com	s177775138.t	7.0	121716.08825012698	33259.47971160873	17388.012607160996	-2.9335120000177994
+Google Analytics Solutions - Marketing Analytics & Measurement	www.google-analytics.com	google-analytics.com	www	5.0	108737.7801289236	53925.33075520105	21747.556025784717	10469.836717426311
+Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform	insights.hotjar.com	hotjar.com	insights	1.0	99409.47679419431	99409.47679419431	99409.47679419431	99409.47679419431
+Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform	static.hotjar.com	hotjar.com	static	1.0	97475.24393951672	97475.24393951672	97475.24393951672	97475.24393951672
+Oracle and BlueKai	tags.bluekai.com	bluekai.com	tags	1.0	88999.79665883415	88999.79665883415	88999.79665883415	88999.79665883415
+Adobe Marketing Cloud privacy	cisco.sc.omtrdc.net	omtrdc.net	cisco.sc	9.0	81828.07600290887	36498.58097433421	9092.008444767653	-2.9007789999595843
+DoubleClick - Digital Advertising Solutions	cm.g.doubleclick.net	doubleclick.net	cm.g	2.0	79804.53224896209	40099.50420098612	39902.266124481044	39705.02804797597
+Zift Solutions: Leading Channel Marketing & Management Automation	analytics.ziftsolutions.com	ziftsolutions.com	analytics	3.0	76875.97197133052	36503.788210618775	25625.323990443507	12794.458675799484
+Bing	bat.bing.com	bing.com	bat	4.0	68627.97889009758	40528.96298308403	17156.994722524396	-2.9586969999945723
+Facebook - Log In or Sign Up	staticxx.facebook.com	facebook.com	staticxx	1.0	50957.749992745	50957.749992745	50957.749992745	50957.749992745
+Oracle and BlueKai	stags.bluekai.com	bluekai.com	stags	3.0	44607.30400087219	28266.336004905403	14869.101333624063	7973.153998602182
+img.en25.com	img.en25.com	en25.com	img	1.0	40675.27346163627	40675.27346163627	40675.27346163627	40675.27346163627
+s.yimg.com	s.yimg.com	yimg.com	s	1.0	39549.59225615277	39549.59225615277	39549.59225615277	39549.59225615277
+sjs.bizographics.com	sjs.bizographics.com	bizographics.com	sjs	1.0	38723.907357872	38723.907357872	38723.907357872	38723.907357872
+www.googleadservices.com	www.googleadservices.com	googleadservices.com	www	1.0	38519.23824120406	38519.23824120406	38519.23824120406	38519.23824120406
+Rubicon Project - Rubicon Project	pixel.rubiconproject.com	rubiconproject.com	pixel	2.0	36952.68743848172	36252.40031843656	18476.34371924086	700.2871200451627
+Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform	vars.hotjar.com	hotjar.com	vars	1.0	35891.21098964289	35891.21098964289	35891.21098964289	35891.21098964289
+ib.adnxs.com	ib.adnxs.com	adnxs.com	ib	1.0	34682.87501855171	34682.87501855171	34682.87501855171	34682.87501855171
+j.6sc.co	j.6sc.co	6sc.co	j	1.0	28046.92088903836	28046.92088903836	28046.92088903836	28046.92088903836
+Yahoo	sp.analytics.yahoo.com	yahoo.com	sp.analytics	3.0	25652.959576233116	21125.73686279473	8550.98652541104	-2.945103999983985
+snap.licdn.com	snap.licdn.com	licdn.com	snap	1.0	21358.544516043097	21358.544516043097	21358.544516043097	21358.544516043097
+DoubleClick - Digital Advertising Solutions	stats.g.doubleclick.net	doubleclick.net	stats.g	1.0	18068.66076692217	18068.66076692217	18068.66076692217	18068.66076692217
+Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform	script.hotjar.com	hotjar.com	script	1.0	13166.433116104861	13166.433116104861	13166.433116104861	13166.433116104861
+LinkedIn: Log In or Sign Up	px.ads.linkedin.com	linkedin.com	px.ads	2.0	12925.470229657367	7135.914489953779	6462.735114828683	5789.555739703588
+Application Performance Monitoring & Management | AppDynamics	cdn.appdynamics.com	appdynamics.com	cdn	1.0	12032.754967530665	12032.754967530665	12032.754967530665	12032.754967530665
+LinkedIn: Log In or Sign Up	platform.linkedin.com	linkedin.com	platform	2.0	11338.045249020273	9448.332334669307	5669.022624510137	1889.7129143509665
+d.la4-c2-chi.salesforceliveagent.com	d.la4-c2-chi.salesforceliveagent.com	salesforceliveagent.com	d.la4-c2-chi	1.0	10635.364912990306	10635.364912990306	10635.364912990306	10635.364912990306
+LinkedIn: Log In or Sign Up	dc.ads.linkedin.com	linkedin.com	dc.ads	2.0	8461.955876517226	5505.828584856354	4230.977938258613	2956.1272916608723
