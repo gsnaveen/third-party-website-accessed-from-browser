@@ -1,0 +1,1 @@
+# third-party-website-accessed-from-browser
