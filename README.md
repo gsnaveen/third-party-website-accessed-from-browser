@@ -16,7 +16,7 @@ from bs4 import BeautifulSoup
 
 ###### Data output files
 ```
-user.har_domainTitles.tsv
+user.har_summary.tsv
     # Subdomains processed into 'Title/Name of Website', 'Domain' ,'Primary/Main domain' , 'subdomain part', Calls + other metrics
 user.har_domainKeyValue.tsv 
     # The key value passed as data with the calls
