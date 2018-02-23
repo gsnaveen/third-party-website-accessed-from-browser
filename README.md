@@ -16,14 +16,10 @@ from bs4 import BeautifulSoup
 
 ###### Data output files
 ```
-user.har_domainCalls.csv  
-    # Times a domain was accessed
+user.har_domainTitles.txt 
+    # Subdomains processed into 'Title/Name of Website', 'Domain' ,'Primary/Main domain' , 'subdomain part', Calls + other metrics
 user.har_domainKeyValue.txt 
     # The key value passed as data with the calls
-user.har_domainTime.csv 
-    # @ this moment this is work in progress
-user.har_domainTitles.txt 
-    # Subdomains processed into 'Title/Name of Website', 'Domain' ,'Primary/Main domain' , 'subdomain part'
 user.har_userRequestPages.txt 
     # User requested pages as appeared in the browser address bar
 ```
