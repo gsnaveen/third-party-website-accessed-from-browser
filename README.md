@@ -18,9 +18,9 @@ from bs4 import BeautifulSoup
 ```
 user.har_domainTitles.txt 
     # Subdomains processed into 'Title/Name of Website', 'Domain' ,'Primary/Main domain' , 'subdomain part', Calls + other metrics
-user.har_domainKeyValue.txt 
+user.har_domainKeyValue.tsv 
     # The key value passed as data with the calls
-user.har_userRequestPages.txt 
+user.har_userRequestPages.tsv
     # User requested pages as appeared in the browser address bar
 ```
 ###### Data files for D3js Viz
